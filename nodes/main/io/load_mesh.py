@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2025 ComfyUI-GeometryPack Contributors
+# Copyright (C) 2025 ENVLESSComfyUI-GeometryPack Contributors
 
 """
 Load Mesh Node - Load a mesh from file (OBJ, PLY, STL, OFF, etc.)

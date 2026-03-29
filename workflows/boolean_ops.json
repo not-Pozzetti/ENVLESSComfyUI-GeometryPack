@@ -74,7 +74,7 @@
       ],
       "outputs": [],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "991c7a75886f50d567e5ed6d36aed06d0729a938",
         "Node name for S&R": "GeomPackPreviewMeshDual",
         "cnr_id": "comfyui-geometrypack"
@@ -128,7 +128,7 @@
       ],
       "outputs": [],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "2e13f224560ec09663784033fcbe8565327e9726",
         "Node name for S&R": "GeomPackPreviewMeshVTK",
         "cnr_id": "comfyui-geometrypack"
@@ -194,7 +194,7 @@
         }
       ],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "8b8322e2f784d84097cd3427f097b55dc9a29d2a",
         "Node name for S&R": "GeomPackCreatePrimitive",
         "cnr_id": "comfyui-geometrypack"
@@ -261,7 +261,7 @@
         }
       ],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "8b8322e2f784d84097cd3427f097b55dc9a29d2a",
         "Node name for S&R": "GeomPackCreatePrimitive",
         "cnr_id": "comfyui-geometrypack"
@@ -326,7 +326,7 @@
         }
       ],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "c5dfab62adf5e57a1800306b9c6d495f4dd52a43",
         "Node name for S&R": "GeomPackBooleanCGAL"
       },

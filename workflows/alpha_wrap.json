@@ -51,7 +51,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "7380010c0f78151d54c66faf4cdd5cf51300156e",
         "Node name for S&R": "GeomPackLoadMesh",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "3d/ArmoredWarrior_00005_.glb"
@@ -140,7 +140,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "7380010c0f78151d54c66faf4cdd5cf51300156e",
         "Node name for S&R": "GeomPackPreviewMeshDual",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "side_by_side",
@@ -218,7 +218,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "7380010c0f78151d54c66faf4cdd5cf51300156e",
         "Node name for S&R": "GeomPackPreviewMeshMulti",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "fields",
@@ -456,7 +456,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "7380010c0f78151d54c66faf4cdd5cf51300156e",
         "Node name for S&R": "GeomPackAlphaWrap",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         1.1,

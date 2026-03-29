@@ -1,10 +1,10 @@
 # Third-Party Notices
 
-This file contains notices for third-party software included with or used by ComfyUI-GeometryPack.
+This file contains notices for third-party software included with or used by ENVLESSComfyUI-GeometryPack.
 
 ## License Summary
 
-ComfyUI-GeometryPack is licensed under GPL-3.0-or-later. This project incorporates and depends on the following third-party software:
+ENVLESSComfyUI-GeometryPack is licensed under GPL-3.0-or-later. This project incorporates and depends on the following third-party software:
 
 ---
 
@@ -160,7 +160,7 @@ For full license texts of third-party dependencies, please refer to:
 
 ## Attribution
 
-ComfyUI-GeometryPack is built on the shoulders of giants. We are grateful to all the developers and contributors of the above projects for their excellent work.
+ENVLESSComfyUI-GeometryPack is built on the shoulders of giants. We are grateful to all the developers and contributors of the above projects for their excellent work.
 
 For questions about licensing, please open an issue at:
-https://github.com/PozzettiAndrea/ComfyUI-GeometryPack/issues
+https://github.com/not-pozzetti/ENVLESSComfyUI-GeometryPack/issues

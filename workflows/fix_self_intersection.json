@@ -49,7 +49,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "253a956368261760da54dc96750c2ab0224e2b1f",
         "Node name for S&R": "GeomPackLoadMesh",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "3d/camelhead.off"
@@ -147,7 +147,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "8b8322e2f784d84097cd3427f097b55dc9a29d2a",
         "Node name for S&R": "GeomPackFixSelfIntersectionsByPerturbation",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         0.0001,
@@ -200,7 +200,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "abe9ed9726622d0f29e3936feaf6c1aa446914a3",
         "Node name for S&R": "GeomPackDetectSelfIntersections",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         ""
@@ -309,7 +309,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "1fcec6e19dca5e04ec71d204dbe8ef1828885062",
         "Node name for S&R": "GeomPackPreviewMeshDual",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "side_by_side",
@@ -362,7 +362,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "c77434120c2984b0ad1dd308c733117a855a8a36",
         "Node name for S&R": "GeomPackDetectSelfIntersections",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         ""
