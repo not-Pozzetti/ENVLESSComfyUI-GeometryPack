@@ -1,13 +1,16 @@
-# ComfyUI-GeometryPack
+# ENVLESSComfyUI-GeometryPack
+
+> [!IMPORTANT]
+> These were forks to avoid the abusive ComfyENV code that was added by Mr Pozzetti to thousands of unsuspecting users.
 
 Professional geometry processing nodes for ComfyUI. Load, analyze, remesh, unwrap, and visualize 3D meshes directly in your workflows.
 
 <div align="center">
-<a href="https://pozzettiandrea.github.io/ComfyUI-GeometryPack/">
-<img src="https://pozzettiandrea.github.io/ComfyUI-GeometryPack/gallery-preview.png" alt="Workflow Test Gallery" width="800">
+<a href="https://not-pozzetti.github.io/ENVLESSComfyUI-GeometryPack/">
+<img src="https://not-pozzetti.github.io/ENVLESSComfyUI-GeometryPack/gallery-preview.png" alt="Workflow Test Gallery" width="800">
 </a>
 <br>
-<b><a href="https://pozzettiandrea.github.io/ComfyUI-GeometryPack/">View Live Test Gallery →</a></b>
+<b><a href="https://not-pozzetti.github.io/ENVLESSComfyUI-GeometryPack/">View Live Test Gallery →</a></b>
 </div>
 
 
@@ -30,7 +33,7 @@ Please always install from ComfyUI Manager.
 
 ## Community
 
-Questions or feature requests? Open a [Discussion](https://github.com/PozzettiAndrea/ComfyUI-GeometryPack/discussions) on GitHub.
+Questions or feature requests? Open a [Discussion](https://github.com/not-pozzetti/ENVLESSComfyUI-GeometryPack/discussions) on GitHub.
 
 Join the [Comfy3D Discord](https://discord.gg/bcdQCUjnHE) for help, updates, and chat about 3D workflows in ComfyUI.
 
@@ -61,4 +64,4 @@ For more details, see:
 
 ### Questions?
 
-If you have questions about licensing, please open an issue on [GitHub](https://github.com/PozzettiAndrea/ComfyUI-GeometryPack/issues).
+If you have questions about licensing, please open an issue on [GitHub](https://github.com/not-pozzetti/ENVLESSComfyUI-GeometryPack/issues).

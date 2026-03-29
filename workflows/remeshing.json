@@ -142,7 +142,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "253a956368261760da54dc96750c2ab0224e2b1f",
         "Node name for S&R": "GeomPackLoadMesh",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "3d/Stanford_Bunny.stl"

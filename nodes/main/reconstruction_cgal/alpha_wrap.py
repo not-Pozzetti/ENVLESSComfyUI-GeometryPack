@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2025 ComfyUI-GeometryPack Contributors
+# Copyright (C) 2025 ENVLESSComfyUI-GeometryPack Contributors
 
 """
 Alpha Wrap Node - Shrink wrap mesh generation using CGAL's Alpha Wrap algorithm.

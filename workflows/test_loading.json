@@ -46,7 +46,7 @@
         }
       ],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "0.1.1",
         "Node name for S&R": "GeomPackLoadMeshBlend",
         "cnr_id": "comfyui-geometrypack"
@@ -97,7 +97,7 @@
         }
       ],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "0.1.1",
         "Node name for S&R": "GeomPackLoadMeshFBX",
         "cnr_id": "comfyui-geometrypack"
@@ -176,7 +176,7 @@
       ],
       "outputs": [],
       "properties": {
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack",
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack",
         "ver": "0.1.1",
         "Node name for S&R": "GeomPackPreviewMeshDual",
         "cnr_id": "comfyui-geometrypack"

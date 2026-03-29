@@ -1,5 +1,5 @@
 # SPDX-License-Identifier: GPL-3.0-or-later
-# Copyright (C) 2025 ComfyUI-GeometryPack Contributors
+# Copyright (C) 2025 ENVLESSComfyUI-GeometryPack Contributors
 
 """
 Remove degenerate faces (zero area or duplicate vertex indices) from mesh.

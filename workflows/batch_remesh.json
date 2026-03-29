@@ -38,7 +38,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "84b2d1816c08ec3cc7d3a4fffa90692669e17507",
         "Node name for S&R": "GeomPackMeshInfo",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         ""
@@ -104,7 +104,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "0.1.1",
         "Node name for S&R": "GeomPackLoadMeshBatch",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "3d",
@@ -334,7 +334,7 @@
         "cnr_id": "comfyui-geometrypack",
         "ver": "84b2d1816c08ec3cc7d3a4fffa90692669e17507",
         "Node name for S&R": "GeomPackPreviewMeshVTKBatch",
-        "aux_id": "PozzettiAndrea/ComfyUI-GeometryPack"
+        "aux_id": "NOTPozzetti/ENVLESSComfyUI-GeometryPack"
       },
       "widgets_values": [
         "fields",
